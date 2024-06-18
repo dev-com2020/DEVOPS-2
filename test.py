@@ -6,4 +6,5 @@ print(osoby)
 if osoby:
     print("lista jest ok")
 
-
+if not osoby:
+    print("lista nie jest ok")
