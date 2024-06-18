@@ -1,1 +1,1 @@
-persons = ("osoba1",)
+persons = ("osoba1","osoba2")
