@@ -1,4 +1,4 @@
-osoby = [1, 2, 3, 4, 5]
+osoby = [1, 2, 3, 4, 5, 'tomek']
 
 print(osoby)
 
