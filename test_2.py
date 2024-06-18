@@ -8,3 +8,6 @@ if osoby:
 
 if not osoby:
     print("lista nie jest ok")
+
+for i in range(5):
+    osoby.append(i)
