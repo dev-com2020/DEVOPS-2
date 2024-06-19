@@ -2,7 +2,7 @@ import unittest
 
 
 def do_something():
-    return "coś robię..."
+    return "coś robię"
 
 
 def addition(a, b):
