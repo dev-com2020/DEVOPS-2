@@ -1,2 +1,2 @@
 persons = ("osoba1",)
-persons = ()
+persons = (123)
