@@ -16,8 +16,8 @@ class MyTestCase(unittest.TestCase):
         assert result == "coś robię"
 
     def test_main(self):
-        result = addition(3,2)
-        assert result == 5
+        result = addition(3,3)
+        assert result == 6
 
     def test_one(self):
         pass
