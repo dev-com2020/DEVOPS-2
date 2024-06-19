@@ -8,6 +8,6 @@ chrome_options.add_argument("--disable-dev-shm-usage")
 
 driver = webdriver.Chrome(options=chrome_options)
 driver.get("https://alx.pl")
-print(driver.title)
+# print(driver.title)
 driver.save_screenshot("plik.png")
 driver.quit()
